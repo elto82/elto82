@@ -24,3 +24,4 @@ Durante mi trayectoria, he adquirido conocimientos y he desarrollado un dominio 
 #
 ### 📬 Contactame:
 - ✉️ elto.82@gmail.com
+- 📌 https://www.linkedin.com/in/devargiroarias/
